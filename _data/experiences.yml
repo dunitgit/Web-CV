@@ -1,8 +1,8 @@
-- experience:
+﻿- experience:
   role: Java Backend Developer
   time: 2016 - 2018
   company: BAE Systems Applied Intelligence, Nørresundby
-  details: "My work as a backend developer in BAE Systems included development and design of new products, maintenance/bug fixing of existing products and customer support. I had the chance to do DevOps work and experience the whole product lifecycle from design, implementation, testing and installation on customers sites. During my time I was responsible for several components with diverse technology stacks including: Wildfly and Tomcat both as standalone and clustered servers. PostgreSQL, Microsoft SQL and Elasticsearch as data stores and search engines. Kafka/Zookeeper and ActiveMQ as queue systems and a lot of GNU/Linux administration and installation. Furthermore I dabbled to less extend in technologies such as Keycloak and Kerberos authentication, continous integration using Jenkins, Nagios for health status monitoring and Vagrant for automatic development setups."
+  details: "My work as a developer in BAE Systems included development and design of new products, maintenance/bug fixing of existing products and customer support. I had the chance to do DevOps work and experience the whole product lifecycle from design, implementation, testing and installation on customers sites. During my time I was responsible for several components with diverse technology stacks including: Wildfly and Tomcat both as standalone and clustered servers. PostgreSQL, Microsoft SQL and Elasticsearch as data stores and search engines. Kafka/Zookeeper and ActiveMQ as queue systems and a lot of GNU/Linux administration and installation. Furthermore I dabbled to lesser extent in technologies such as Keycloak and Kerberos authentication, continous integration using Jenkins, Nagios for health status monitoring and Vagrant for automatic development setups."
   #- experience:
   #  role: Senior Software Engineer
   #  time: 2014 - 2015
