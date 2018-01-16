@@ -1,15 +1,8 @@
 - experience:
-  role: Backend Developer
+  role: Java Backend Developer
   time: 2016 - 2018
   company: BAE Systems Applied Intelligence, Nørresundby
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.
-  <br> <br>
-  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-  laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-  architecto beatae vitae dicta sunt explicabo."
+  details: "My daily work as a backend developer in BAE Systems included development and design of new products, maintenance/bug fixing of existing products and customer support. I had the chance to do DevOps work and experience the whole product lifecycle from design, implementation, testing and installation on customers sites. During my time I was responsible for several components with diverse technology stacks including: Wildfly and Tomcat as webserver and application server. PostgreSQL, Microsoft SQL and Elasticsearch as data store and search engine. Kafka/Zookeeper and ActiveMQ as queue systems and a lot of GNU/Linux administration and installation. Furthermore i dabbled to a less degree in technologies such as Keycloak and Kerberos for authentication, continous integration using jenkins and Nagios for health status monitoring"
   #- experience:
   #  role: Senior Software Engineer
   #  time: 2014 - 2015

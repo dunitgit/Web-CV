@@ -1,6 +1,6 @@
 # Site Settings
 title: Daniel Sørensen - About
-url: 'http://webjeda.com'
+url: 'http://'
 baseurl: '' #change it according to your repository name
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
@@ -12,20 +12,20 @@ style: styles-6
 
 #Profile information
 name: Daniel Sørensen
-tagline: Full Stack Developer
+tagline: Software Developer
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+summary: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
 commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient
 montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
 
 #sidebar links
-email: dunit@mail.com
-phone: +45 xx xx xx xx
-website: dunit.com #do not add http://
-linkedin: dunitlinkdin
+email: dunit@protonmail.com
+#phone: 61 18 82 35
+#website: dunit.com #do not add http://
+linkedin: danielbockersorensen
 github: dunitgit
-twitter: '@dunittwitter'
+#twitter: '@dunittwitter'
 #Update all the sections by editing the files inside _data folder.
 
 # Tracker
