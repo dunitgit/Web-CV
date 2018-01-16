@@ -4,7 +4,7 @@
   title: Reading and using brain signals in software
   #link: "#hook"
   tagline: "<br>
-As a part of my master´s thesis I had the chance to use an EEG (Electroencephalogram) reader and based my project on this device. An EEG reader is a device that can read brain waves when attached to the scalp of a person. I used this device in conjunction with machine learning and pattern recognition to be able to identify how arm movement could be identified in brain waves. The project was a proof of concept of how EEG readers potentially could be used to control robot arms by thoughts. The technologies used in this project were Java and Matlab combined with a large amount of matrix manipulation."
+As a part of my masters thesis I had the chance to use an EEG (Electroencephalogram) reader and based my project on this device. An EEG reader is a device that can read brain waves when attached to the scalp of a person. I used this device in conjunction with machine learning and pattern recognition to be able to identify how arm movement could be identified in brain waves. The project was a proof of concept of how EEG readers potentially could be used to control robot arms by thoughts. The technologies used in this project were Java and Matlab combined with a large amount of matrix manipulation."
 - project:
   title: A voice controlled game targeted at children with autism
   #  link: "#"
