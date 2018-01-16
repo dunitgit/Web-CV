@@ -4,10 +4,10 @@
   title: Reading and using brain signals in software
   #link: "#hook"
   tagline: "<br>
-As part of my masters thesis I had the chance to use an EEG (Electroencephalogram) reader and based my project on this device. An EEG reader is a device that can read brain waves when attached to the scalp of a person. I used this device in conjunction with machine learning and pattern recognition to be able to identify how arm movement could be identified in brain waves. The project was a proof of concept of how EEG readers potentially could be used to control robot arms by thoughts. The technologies used in this project were Java and Matlab combined with a huge amount of matrix manipulation."
+As a part of my master´s thesis I had the chance to use an EEG (Electroencephalogram) reader and based my project on this device. An EEG reader is a device that can read brain waves when attached to the scalp of a person. I used this device in conjunction with machine learning and pattern recognition to be able to identify how arm movement could be identified in brain waves. The project was a proof of concept of how EEG readers potentially could be used to control robot arms by thoughts. The technologies used in this project were Java and Matlab combined with a large amount of matrix manipulation."
 - project:
   title: A voice controlled game targeted at children with autism
   #  link: "#"
   tagline: "<br>
-As a part of the GIRAF (Graphical Interface Resources for Autistic Folk) framework I developed the application Cars. Cars is a two dimensional side scrolling game where the player has to avoid obstacles using their voice to move the car around. 
+I was a small part of the GIRAF (Graphical Interface Resources for Autistic Folk) framework and developed the application Cars. Cars is a two dimensional side scrolling game where the player has to avoid obstacles using their voice to move the car around. 
 The purpose of Cars was to be a training tool for children with autism, who had trouble using and controlling their voice when speaking. It was developed in cooperation with caretakers and specialists in an agile iterative manner, as many ideas had to be tried and proven before arriving at the end result. The game was developed for the Android platform using the microphone as the primary user input and by drawing the graphics using OpenGL." 
